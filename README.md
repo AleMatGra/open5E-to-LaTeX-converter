@@ -14,4 +14,4 @@ Run it, it will output a <monster_name>_LaTeX.txt. The content can be copy paste
 
 ## Requirements
 
-Python 3, if you are using it, you will need to install the translator package.
+Python 3 and if you are using it, you will need to install the translator package.
